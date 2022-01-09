@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  cert-manager:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2022-01-09T17:48:48.64913+01:00"
+    description: A Helm chart for cert-manager's cluster issuer with Azure DNS solver
+    digest: 0130a1a1e3f43914fc1877753c596a2b548160a299b8902990fe6bd7c4fab6de
+    name: cert-manager
+    type: application
+    urls:
+    - cert-manager-1.0.0.tgz
+    version: 1.0.0
+generated: "2022-01-09T17:48:48.648562+01:00"
